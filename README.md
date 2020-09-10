@@ -1,3 +1,3 @@
-# hello-world
+# Python projects
 
-Hello, this will be my first project.
+This repository will contain varying personal Python projects.
